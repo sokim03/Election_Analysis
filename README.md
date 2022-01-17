@@ -9,8 +9,8 @@ The Colorado Board of Elections has requested an election audit with the followi
 5. The winner of the election based on popular vote
 
 ## Resources
-1. Data Source: election_results.csv
-2. Software: python 3.7 & Visual Studio Code 1.63
+- Data Source: election_results.csv 
+- Software: python 3.7 & Visual Studio Code 1.63
 
 ## Summary
 The analysis of the election show that:
