@@ -10,7 +10,7 @@ The Colorado Board of Elections has requested an election audit with the followi
 
 ## Resources
 - Data Source: election_results.csv 
-- Software: python 3.7 & Visual Studio Code 1.63
+- Software: Python 3.7 & Visual Studio Code 1.63
 
 ## Election-Audit Results
 The analysis of the election show that:
@@ -21,6 +21,9 @@ The analysis of the election show that:
    - Raymon Anthony Doane
    
 - The number of votes and percentage of total votes for each county is shown below:
+
+
+
 ![County](https://user-images.githubusercontent.com/96352427/149861077-8f94045f-b813-44e7-b835-f3f634a6364b.PNG)
 
 - Denver county had the largest number of votes.
