@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview
+## Overview of Election Audit
 The Colorado Board of Elections has requested an election audit with the following requirements:
 1. Total number of votes cast
 2. A complete list of candidates who received votes
