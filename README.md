@@ -15,6 +15,10 @@ The Colorado Board of Elections has requested an election audit with the followi
 ## Election-Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
+- The candidates were:
+   - Charles Casper Stockham
+   - Diana DeGette
+   - Raymon Anthony Doane
 - The number of votes and percentage of total votes for each county is shown below:
 ![County](https://user-images.githubusercontent.com/96352427/149861077-8f94045f-b813-44e7-b835-f3f634a6364b.PNG)
 - Denver county had the largest number of votes.
