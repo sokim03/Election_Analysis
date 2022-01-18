@@ -21,6 +21,7 @@ The analysis of the election show that:
    - Raymon Anthony Doane
 - The number of votes and percentage of total votes for each county is shown below:
 ![County](https://user-images.githubusercontent.com/96352427/149861077-8f94045f-b813-44e7-b835-f3f634a6364b.PNG)
+
 - Denver county had the largest number of votes.
 - The number of votes and percentages of total votes for each candidate is shown below:
 ![Candidates](https://user-images.githubusercontent.com/96352427/149861097-454a3cd0-a139-4aaf-937c-3228f6bcc3b1.PNG)
