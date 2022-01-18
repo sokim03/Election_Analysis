@@ -19,6 +19,7 @@ The analysis of the election show that:
    - Charles Casper Stockham
    - Diana DeGette
    - Raymon Anthony Doane
+   
 - The number of votes and percentage of total votes for each county is shown below:
 ![County](https://user-images.githubusercontent.com/96352427/149861077-8f94045f-b813-44e7-b835-f3f634a6364b.PNG)
 
