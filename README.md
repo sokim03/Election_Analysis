@@ -28,9 +28,11 @@ The analysis of the election show that:
 - Denver county had the largest number of votes.
 
 - The number of votes and percentages of total votes for each candidate is shown below:
+
    ![Candidates](https://user-images.githubusercontent.com/96352427/149861097-454a3cd0-a139-4aaf-937c-3228f6bcc3b1.PNG)
 
 - The winner of the election is Diana DeGette with the number of votes and total percentage shown below:
+
    ![Winner](https://user-images.githubusercontent.com/96352427/149861114-e1a70c33-b562-4ec5-abe9-ab79fd171d41.PNG)
    
 ## Election Summary
